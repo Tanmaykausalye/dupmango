@@ -1,1 +1,2 @@
-# dupmango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
